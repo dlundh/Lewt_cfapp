@@ -6,4 +6,4 @@ Lewt is a different kind of marketing tool designed to make website visitors sta
 
 When credits are earned, a coin with the amount of credits earned appear on the screen with a sound effect. This effect can be triggered when visitors click on a link, button, image or any other HTML element that you specify. You need to know basic HTML to take full advantage of Lewt, but you can view examples for how to offer credits if you are a HTML novice.
 
-![Account pages](/images/lewt_account.png "Account pages")
+![Account pages](/public/images/lewt_account.png "Account pages")
