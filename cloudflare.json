@@ -1,7 +1,7 @@
 {
     
     "name": "Lewt",
-    "description": "Offer rewards and prices to visitors who browse your web pages and content. Gamify your website and keep visitors coming back for more.",
+    "description": "Offer rewards and prices to visitors who browse your web pages and content. Keep your visitors longer on your web pages and make them come back for more.",
     "version": "1.0",
       "contributors":[
         {
@@ -15,8 +15,7 @@
         "details":{
             "Language": "English",
             "Price": "Free",
-            "Restrictions": "None",
-            "TOS":"http://www.cloudflare.com/terms",
+            "Restrictions": "None",            
             "has_js": true
         }, 
         "assets":{
@@ -26,10 +25,7 @@
                 "110px": "./public/images/lewt_logo_110.png"
             },
             "detail_page" : [
-                "./public/images/example.png"
-            ],
-            "images" : [
-                "./public/images/counter.png"
+                "./public/images/lewt_account.png"
             ]
         },
         "interface": [
@@ -62,18 +58,5 @@
     "account": {
         "callback_url": "http://lewt.it/users",
         "user_fields": ["email"]
-    },
-    "billing": {
-        "type": "zone",
-        "plans":[
-            {
-                "name" : "Chowder",
-                "price": "3.20"
-            },
-            {
-                "name" : "Minestrone",
-                "price" : "6.55"
-            }
-        ]
     }
 }
