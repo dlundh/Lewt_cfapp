@@ -2,8 +2,8 @@
 // variable specific to a domain/account
  
 CloudFlare.define(
-    '<appKey>',
-    ['<appKey>/config'],
+    'lewt',
+    ['lewt/config'],
     function(config) {
  
         // config will be an object containing any configurations that will be

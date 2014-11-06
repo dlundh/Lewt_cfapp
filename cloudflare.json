@@ -27,33 +27,7 @@
             "detail_page" : [
                 "./public/images/lewt_account.png"
             ]
-        },
-        "interface": [
-            {
-                "type": "string",
-                "id": "email",
-                "name": "Email Address",
-                "description": "Type your email address to register with.",
-                "domain_request": true,
-                "private": true
-            },
-            {
-                "type": "string",
-                "id": "password",
-                "name": "Password",
-                "description": "Type your password, minimum of 6 characters.",
-                "domain_request": true,
-                "private": true
-            },          
-            {
-                "type": "string",
-                "id": "password_confirmation",
-                "name": "Confirm Password",
-                "description": "Type your password again.",
-                "domain_request": true,
-                "private": true
-            }
-        ]
+        }        
     },
     "account": {
         "callback_url": "http://lewt.it/users",
