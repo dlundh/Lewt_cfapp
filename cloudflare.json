@@ -2,13 +2,7 @@
     
     "name": "Lewt",
     "description": "Offer rewards and prices to visitors who browse your web pages and content. Keep your visitors longer on your web pages and make them come back for more.",
-    "version": "1.0.1",
-      "contributors":[
-        {
-          "name":"Daniel Lundh",
-          "email":"daniel@orbstudio.net"
-        }
-      ],
+    "version": "1.0.1",      
     "category": "loyalty programs",
     "main": "./public/js/lewt_module.js",
     "config":{
