@@ -1,4 +1,4 @@
-![Gamify your website - Offer rewards and prices to loyal visitors and keep them coming back for more.](/public/images/lewt_logo.png "Gamify your website - Offer rewards and prices to loyal visitors and keep them coming back for more.")
+![Gamify your website - Offer rewards and prices to loyal visitors and keep them coming back for more.](public/images/lewt_logo.png "Gamify your website - Offer rewards and prices to loyal visitors and keep them coming back for more.")
 
 Lewt is a different kind of marketing tool designed to make website visitors stay longer on your web pages. Offer rewards and prices to visitors who earn enough credits from browsing your products and services. You decide what is important to see on your website, and can offer credits when visitors browse it in the most preferred way. 
 
@@ -10,7 +10,7 @@ When credits are earned, a coin with the amount of credits earned appear on the 
 
 To go to your account pages where you setup your website and add rewards, go to http://lewt.it. You can use your account as a website owner offering rewards as well as for earning rewards on other websites.
 
-![Account pages](/public/images/lewt_account.jpg "Account pages")
+![Account pages](public/images/lewt_account.jpg "Account pages")
 
 ### Rewards
 
