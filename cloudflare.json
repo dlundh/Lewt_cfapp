@@ -2,7 +2,7 @@
     
     "name": "Lewt",
     "description": "Offer rewards and prices to visitors who browse your web pages and content. Keep your visitors longer on your web pages and make them come back for more.",
-    "version": "1.1",
+    "version": "1.2",
     "contributors":[
       {
         "name":"Daniel Lundh",
@@ -30,7 +30,7 @@
         }
     },
     "account": {
-        "callback_url": "http://lewt.it/users",
+        "callback_url": "http://lewt.it/api",
         "user_fields": ["email"]
     }
 }
